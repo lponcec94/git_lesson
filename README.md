@@ -2,4 +2,4 @@
 
 ### Creando un conflicto en Git 
 
-Dame un error!!!!
+Dame un error! Sí salió el error!
